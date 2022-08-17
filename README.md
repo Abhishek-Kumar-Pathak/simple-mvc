@@ -3,7 +3,7 @@
 Example of CRUD Operations using PHP MVC Pattern (Query Args).
 With File Upload
 
-- Make sure `app` dir is server root dir.
+- Make sure `app` dir should be server root dir.
 - Change SQL config in `app/model.php`
 
 
